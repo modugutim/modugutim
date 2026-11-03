@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hello I'm Timothy
 
-<!--
-**modugutim/modugutim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Connect with me on LinkedIn](https://www.linkedin.com/in/timothymodugu)
 
-Here are some ideas to get you started:
+Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a GRC Analyst with hands-on experience across security operations, compliance frameworks, risk management, regulatory compliance, evidence validation, audit support, and remediation tracking. I have experience leading end-to-end incident response, and aligning controls with SOC 2, PCI-DSS, ISO 27001, NIST CSF, CIS Controls and adept at partnering with engineering, product, and IT teams to harden applications, conduct vendor risk reviews, and drive continuous compliance.
+
+## Certifications
+- <b>CISSP in progress</b> 
+- <b>Google Cybersecurity Professional Certificate</b> [Coursera 2LX11JRXAE87.pdf](https://github.com/user-attachments/files/34295361/Coursera.2LX11JRXAE87.pdf)
+
+
+## Projects
+
+- Cybersecurity Policy Gap Assessment & Development   
+- Cybersecurity Frameworks Review (ISO/IEC 27001, CIS Control v8, NIST CSF)  
+- Accelerated Cybersecurity Posture Assessment/Framework Mapping   
+- Risk Assessment  
+- Risk Management / Risk Register  
+- Third Party Risk Management  
+- Cybersecurity Awareness Training  
+- Risk-Based Vulnerability Management & Remediation Program  
+- Incident Response Tabletop Exercise 
+
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Risk registers, Gap assessments, Control mapping         | <a href="https://google.com">Detection Lab</a>|
+| Control Testing, Evidence Collection | <a href="https://google.com">Detection Lab</
+| Audit Readiness, Remediation Tracking         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Third-party Risk, Vendor Risk Assessments                 | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| SIG questionnaires, Vendor Due Diligence | SOC Automation Lab |
+| Policy Development, Compliance Reporting| SOC Automation Lab |
+
+
+
+
+ NIST SP 800-53, NIST RMF, NIST CSF, ISO 27001, CIS Controls, SOC 2, HIPAA, PCI DSS
+ risk assessments, Risk registers, Gap assessments, Control mapping, Control Testing, Evidence Collection, Audit Readiness, Remediation Tracking
+•	Third-party Risk: Third-Party Risk Management (TPRM), Vendor Risk Assessments, SIG questionnaires, Vendor Due Diligence
+•	Governance: Policy Development, Compliance Reporting, Incident Response 
+
+
+
