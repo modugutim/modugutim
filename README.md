@@ -13,7 +13,7 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 
 ## Projects
 
-- Cybersecurity Policy Gap Assessment & Development   
+-  <a href="https://github.com/modugutim/-Policy-Gap-Assessment">Cybersecurity Policy Gap Assessment & Development
 - Cybersecurity Frameworks Review (ISO/IEC 27001, CIS Control v8, NIST CSF)  
 - Accelerated Cybersecurity Posture Assessment/Framework Mapping   
 - Risk Assessment  
@@ -29,7 +29,7 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk registers, Gap assessments, Control mapping | <a href="https://google.com">Detection Lab</a>|
+| Risk registers, Gap assessments, Control mapping | 
 | Control Testing, Evidence Collection | <a href="https://google.com">Detection Lab
 | Audit Readiness, Remediation Tracking       | SOC Automation Lab|
 | Incident Response Planning and Execution    | SOC Automation Lab|
