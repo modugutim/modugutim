@@ -21,7 +21,7 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 - Third Party Risk Management  
 - Cybersecurity Awareness Training  
 - Risk-Based Vulnerability Management & Remediation Program  
-- Incident Response Tabletop Exercise 
+- <a href="https://github.com/modugutim/Incident-Response-Tabletop-Exercise">Incident Response Tabletop Exercise 
 
 
 ## Skills
