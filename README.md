@@ -17,7 +17,7 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 - Cybersecurity Frameworks Review (ISO/IEC 27001, CIS Control v8, NIST CSF)  
 - Accelerated Cybersecurity Posture Assessment/Framework Mapping   
 - Risk Assessment  
-- Risk Management / Risk Register  
+- <a href="https://github.com/modugutim/Risk-Register-Risk-Management-/tree/main">Risk Management / Risk Register  
 - Third Party Risk Management  
 - Cybersecurity Awareness Training  
 - Risk-Based Vulnerability Management & Remediation Program  
