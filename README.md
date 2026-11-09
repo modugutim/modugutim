@@ -18,7 +18,7 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 - Accelerated Cybersecurity Posture Assessment/Framework Mapping   
 - Risk Assessment  
 - <a href="https://github.com/modugutim/Risk-Register-Risk-Management-/tree/main">Risk Management / Risk Register  
-- Third Party Risk Management  
+- <a href="https://github.com/modugutim/Third-Party-Risk-Management">Third Party Risk Management  
 - Cybersecurity Awareness Training  
 - Risk-Based Vulnerability Management & Remediation Program  
 - <a href="https://github.com/modugutim/Incident-Response-Tabletop-Exercise">Incident Response Tabletop Exercise 
