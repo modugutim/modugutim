@@ -15,7 +15,7 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 
 -  <a href="https://github.com/modugutim/-Policy-Gap-Assessment">Cybersecurity Policy Gap Assessment & Development
 -  <a href="https://github.com/modugutim/Cybersecurity-Framework-Review/tree/main">Cybersecurity Frameworks Review (ISO/IEC 27001, CIS Control v8, NIST CSF)  
-- Accelerated Cybersecurity Posture Assessment/Framework Mapping   
+- Cybersecurity Posture Assessment/Framework Mapping   
 - Risk Assessment  
 - <a href="https://github.com/modugutim/Risk-Register-Risk-Management-/tree/main">Risk Management / Risk Register  
 - <a href="https://github.com/modugutim/Third-Party-Risk-Management">Third Party Risk Management  
