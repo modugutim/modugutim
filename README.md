@@ -31,12 +31,12 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 |-----------------------------------------------|----------------------------|
 | Risk registers, Gap assessments, Control mapping | 
 | Control Testing, Evidence Collection | <a href="https://google.com">Detection Lab
-| Audit Readiness, Remediation Tracking       | SOC Automation Lab|
-| Incident Response Planning and Execution    | SOC Automation Lab|
-| Third-party Risk, Vendor Risk Assessments    | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
-| SIG questionnaires, Vendor Due Diligence | SOC Automation Lab |
-| Policy Development, Compliance Reporting| SOC Automation Lab |
+| Audit Readiness, Remediation Tracking       | 
+| Incident Response Planning and Execution    | 
+| Third-party Risk, Vendor Risk Assessments    | 
+| Scripting and Automation for Threat Mitigation| 
+| SIG questionnaires, Vendor Due Diligence | 
+| Policy Development, Compliance Reporting| 
 
 
 
