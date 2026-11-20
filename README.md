@@ -19,7 +19,7 @@ I am a GRC Analyst with hands-on experience across security operations, complian
 - <a href="https://github.com/modugutim/Web-Application-Risk-Assessment">Risk Assessment  
 - <a href="https://github.com/modugutim/Risk-Register-Risk-Management-/tree/main">Risk Management / Risk Register  
 - <a href="https://github.com/modugutim/Third-Party-Risk-Management">Third Party Risk Management  
-- Cybersecurity Awareness Training  
+-  <a href="https://github.com/modugutim/-Cybersecurity-Awareness-Training">Cybersecurity Awareness Training  
 - Risk-Based Vulnerability Management & Remediation Program  
 - <a href="https://github.com/modugutim/Incident-Response-Tabletop-Exercise">Incident Response Tabletop Exercise 
 
